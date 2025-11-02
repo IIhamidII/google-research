@@ -1,0 +1,2 @@
+# The CLI only depends on the Python standard library. This file is provided
+# as a placeholder for future third-party dependencies.
